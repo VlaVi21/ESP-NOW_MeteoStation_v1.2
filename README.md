@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Version-1.2-yellow.svg" alt="Version 1.2">
 </p>
 
-# ESP-NOW MeteoStation_v1.2
+# 🌤 ESP-NOW MeteoStation_v1.2
 
 Версія 1.2 (з певними змінами) моєї DIY метеостанції на базі **ESP32-S3** та **ESP32-WROOM-32** з використанням **ESP-NOW** для бездротової передачі даних.
 
