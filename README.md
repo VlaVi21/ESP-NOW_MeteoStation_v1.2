@@ -45,20 +45,22 @@
 
 ### 1. Схема підключення ESP32-S3 + GPS + MPU6050 + MQ-2 + Capacitive Soil Moisture Sensor
 
-![ESP32-S3 wiring diagram](TODO: додати лінк на схему)  
+![ESP32-S3 wiring diagram](images/Sh_ESP-NOW_MeteoStation_v1.2_S3_F.png)  
 *Особиста розробка, виконана у графічному редакторі.*  
 
 ---
 
 ### 2. Схема ESP32 + TFT Display 1.8 + Джойстик
 
-![ESP32 TFT joystick diagram](TODO: додати лінк на схему)  
+![ESP32 TFT joystick diagram](images/Sh_ESP-NOW_MeteoStation_v1.2.png)  
 
-- **VRX_PIN** = 39  
-- **VRY_PIN** = 36  
-- **BUT_PIN** = 17  
+*Особиста розробка, виконана у графічному редакторі.*    
 
-*Схема створена у [Wokwi](https://wokwi.com/).*  
+---
+
+### 3. Таблиця розпіновка для ESP32-S3 + GPS + MPU6050 + MQ-2 + Capacitive Soil Moisture Sensor
+
+![ESP32-S3 pinout](images/Sh_ESP-NOW_MeteoStation_v1.2.png)  
 
 ---
 
