@@ -60,7 +60,7 @@
 
 ### 3. Таблиця розпіновка для ESP32-S3 + GPS + MPU6050 + MQ-2 + Capacitive Soil Moisture Sensor
 
-![ESP32-S3 pinout](images/Sh_ESP-NOW_MeteoStation_v1.2.png)  
+![ESP32-S3 pinout](pinout.png)  
 
 ---
 
